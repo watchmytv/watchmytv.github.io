@@ -507,10 +507,8 @@ http://live.cooltv.top/tv/tide.php?id=dlsh
 http://live.cooltv.top/tv/tide.php?id=dlwt
 
 
-
 #EXTINF:-1 group-title="其他" tvg-logo="https://live.fanmingming.com/tv/赣州综合.png",赣州综合
 http://wb.jxgztv.com/live/gztv1.m3u8
-
 
 
 #EXTINF:-1 ,辽宁北方
@@ -521,10 +519,8 @@ http://rt4.orangevip.top:8999/rtp/232.0.0.154:1234
 http://rt4.orangevip.top:8999/rtp/232.0.0.168:1234
 
 
-
 #EXTINF:-1 ,山西影视[1920*1080]
 http://118.81.139.214:8082/rtp/226.0.2.237:9808
-
 
 
 #EXTINF:-1 ,CHC高清电影[1920*1080]
