@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 http://118.81.39.7:8082/rtp/226.0.2.18:8056
@@ -512,11 +513,11 @@ http://wb.jxgztv.com/live/gztv1.m3u8
 
 
 #EXTINF:-1 ,辽宁北方
-http://rt4.orangevip.top:8999/rtp/232.0.0.151:1234
+http://175.161.53.206:4000/rtp/232.0.0.151:1234
 #EXTINF:-1 ,辽宁都市[1920*1080]
-http://rt4.orangevip.top:8999/rtp/232.0.0.154:1234
+http://175.161.53.206:4000/rtp/232.0.0.154:1234
 #EXTINF:-1 ,辽宁公共[1920*1080]
-http://rt4.orangevip.top:8999/rtp/232.0.0.168:1234
+http://175.161.53.206:4000/rtp/232.0.0.168:1234
 
 
 #EXTINF:-1 ,山西影视[1920*1080]
